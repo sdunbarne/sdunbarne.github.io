@@ -16,3 +16,4 @@ analysis, so I use R and Julia.
 I can be contacted at: sdunbarne -at- gmail -dot- com
 
 * [Books to Give Away](/DonatedBooks/donatedbooks/)
+Available books to give away updated in October, 2023.
