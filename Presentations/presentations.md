@@ -41,4 +41,15 @@ href="../importancesampling_presentation.pdf"
 download>Importance Sampling and Option Pricing </a> 
 ~~~
 
+# Importance Sampling and Radon-Nikodym Derivatives
+
+A talk given February, 2016.
+The document is a 30 slide presentation in PDF format.
+
+~~~
+<a
+href="../importancesampling_presentation.pdf"
+download>Importance Sampling and Option Pricing </a> 
+~~~
+
 
