@@ -10,6 +10,8 @@ source compiled with `amsbook.sty`.  This is a evolving work, and is
 subject to frequent change and additions.  If you have comments or
 questions about this book, or if you find errors, please email me.
 
+Chapters 1-12, as of April 2, 2024.
+
 ~~~
 <a
 href="../MarkovChainBook.pdf"

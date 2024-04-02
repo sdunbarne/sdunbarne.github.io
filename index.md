@@ -19,4 +19,4 @@ I can be contacted at: sdunbarne -at- gmail -dot- com
 The list of available books to give away was updated in October, 2023.
 * [Research Reports](/ResearchReports/analysis_population_deviations/)
 * [Presentations](/Presentations/presentations/)
-* [Markov Chain Book](MarkovChainBook/markovchainbook/
+* [Markov Chain Book](MarkovChainBook/markovchainbook/)
