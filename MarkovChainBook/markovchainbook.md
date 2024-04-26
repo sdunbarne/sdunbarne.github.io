@@ -10,7 +10,7 @@ source compiled with `amsbook.sty`.  This is a evolving work, and is
 subject to frequent change and additions.  If you have comments or
 questions about this book, or if you find errors, please email me.
 
-Chapters 1-15, as of April 24, 2024.
+Chapters 1-16, as of April 26, 2024.
 
 ~~~
 <a
