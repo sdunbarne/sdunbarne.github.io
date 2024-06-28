@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?> <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html xmlns="http://www.w3.org/1999/xhtml" lang=en  xml:lang=en > <meta http-equiv=Content-Type  content="text/html;charset=utf-8" /> <meta name=viewport  content="width=device-width, initial-scale=1" /> <title>Julia for Data Analysis, Additional Exercises Chapter 2</title> <meta name=author  content="Steve Dunbar" /> <meta name=generator  content="Org Mode" /> <style> #content { max-width: 60em; margin: auto; } .title { text-align: center; margin-bottom: .2em; } .subtitle { text-align: center; font-size: medium; font-weight: bold; margin-top:0; } .todo { font-family: monospace; color: red; } .done { font-family: monospace; color: green; } .priority { font-family: monospace; color: orange; } .tag { background-color: #eee; font-family: monospace; padding: 2px; font-size: 80%; font-weight: normal; } .timestamp { color: #bebebe; } .timestamp-kwd { color: #5f9ea0; } .org-right { margin-left: auto; margin-right: 0px; text-align: right; } .org-left { margin-left: 0px; margin-right: auto; text-align: left; } .org-center { margin-left: auto; margin-right: auto; text-align: center; } .underline { text-decoration: underline; } #postamble p, #preamble p { font-size: 90%; margin: .2em; } p.verse { margin-left: 3%; } pre { border: 1px solid #e6e6e6; border-radius: 3px; background-color: #f2f2f2; padding: 8pt; font-family: monospace; overflow: auto; margin: 1.2em; } pre.src { position: relative; overflow: auto; } pre.src:before { display: none; position: absolute; top: -8px; right: 12px; padding: 3px; color: #555; background-color: #f2f2f299; } pre.src:hover:before { display: inline; margin-top: 14px;} /* Languages per Org manual */ pre.src-asymptote:before { content: 'Asymptote'; } pre.src-awk:before { content: 'Awk'; } pre.src-authinfo::before { content: 'Authinfo'; } pre.src-C:before { content: 'C'; } /* pre.src-C++ doesn't work in CSS */ pre.src-clojure:before { content: 'Clojure'; } pre.src-css:before { content: 'CSS'; } pre.src-D:before { content: 'D'; } pre.src-ditaa:before { content: 'ditaa'; } pre.src-dot:before { content: 'Graphviz'; } pre.src-calc:before { content: 'Emacs Calc'; } pre.src-emacs-lisp:before { content: 'Emacs Lisp'; } pre.src-fortran:before { content: 'Fortran'; } pre.src-gnuplot:before { content: 'gnuplot'; } pre.src-haskell:before { content: 'Haskell'; } pre.src-hledger:before { content: 'hledger'; } pre.src-java:before { content: 'Java'; } pre.src-js:before { content: 'Javascript'; } pre.src-latex:before { content: 'LaTeX'; } pre.src-ledger:before { content: 'Ledger'; } pre.src-lisp:before { content: 'Lisp'; } pre.src-lilypond:before { content: 'Lilypond'; } pre.src-lua:before { content: 'Lua'; } pre.src-matlab:before { content: 'MATLAB'; } pre.src-mscgen:before { content: 'Mscgen'; } pre.src-ocaml:before { content: 'Objective Caml'; } pre.src-octave:before { content: 'Octave'; } pre.src-org:before { content: 'Org mode'; } pre.src-oz:before { content: 'OZ'; } pre.src-plantuml:before { content: 'Plantuml'; } pre.src-processing:before { content: 'Processing.js'; } pre.src-python:before { content: 'Python'; } pre.src-R:before { content: 'R'; } pre.src-ruby:before { content: 'Ruby'; } pre.src-sass:before { content: 'Sass'; } pre.src-scheme:before { content: 'Scheme'; } pre.src-screen:before { content: 'Gnu Screen'; } pre.src-sed:before { content: 'Sed'; } pre.src-sh:before { content: 'shell'; } pre.src-sql:before { content: 'SQL'; } pre.src-sqlite:before { content: 'SQLite'; } /* additional languages in org.el's org-babel-load-languages alist */ pre.src-forth:before { content: 'Forth'; } pre.src-io:before { content: 'IO'; } pre.src-J:before { content: 'J'; } pre.src-makefile:before { content: 'Makefile'; } pre.src-maxima:before { content: 'Maxima'; } pre.src-perl:before { content: 'Perl'; } pre.src-picolisp:before { content: 'Pico Lisp'; } pre.src-scala:before { content: 'Scala'; } pre.src-shell:before { content: 'Shell Script'; } pre.src-ebnf2ps:before { content: 'ebfn2ps'; } /* additional language identifiers per "defun org-babel-execute" in ob-*.el */ pre.src-cpp:before { content: 'C++'; } pre.src-abc:before { content: 'ABC'; } pre.src-coq:before { content: 'Coq'; } pre.src-groovy:before { content: 'Groovy'; } /* additional language identifiers from org-babel-shell-names in ob-shell.el: ob-shell is the only babel language using a lambda to put the execution function name together. */ pre.src-bash:before { content: 'bash'; } pre.src-csh:before { content: 'csh'; } pre.src-ash:before { content: 'ash'; } pre.src-dash:before { content: 'dash'; } pre.src-ksh:before { content: 'ksh'; } pre.src-mksh:before { content: 'mksh'; } pre.src-posh:before { content: 'posh'; } /* Additional Emacs modes also supported by the LaTeX listings package */ pre.src-ada:before { content: 'Ada'; } pre.src-asm:before { content: 'Assembler'; } pre.src-caml:before { content: 'Caml'; } pre.src-delphi:before { content: 'Delphi'; } pre.src-html:before { content: 'HTML'; } pre.src-idl:before { content: 'IDL'; } pre.src-mercury:before { content: 'Mercury'; } pre.src-metapost:before { content: 'MetaPost'; } pre.src-modula-2:before { content: 'Modula-2'; } pre.src-pascal:before { content: 'Pascal'; } pre.src-ps:before { content: 'PostScript'; } pre.src-prolog:before { content: 'Prolog'; } pre.src-simula:before { content: 'Simula'; } pre.src-tcl:before { content: 'tcl'; } pre.src-tex:before { content: 'TeX'; } pre.src-plain-tex:before { content: 'Plain TeX'; } pre.src-verilog:before { content: 'Verilog'; } pre.src-vhdl:before { content: 'VHDL'; } pre.src-xml:before { content: 'XML'; } pre.src-nxml:before { content: 'XML'; } /* add a generic configuration mode; LaTeX export needs an additional (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */ pre.src-conf:before { content: 'Configuration File'; } table { border-collapse:collapse; } caption.t-above { caption-side: top; } caption.t-bottom { caption-side: bottom; } td, th { vertical-align:top; } th.org-right { text-align: center; } th.org-left { text-align: center; } th.org-center { text-align: center; } td.org-right { text-align: right; } td.org-left { text-align: left; } td.org-center { text-align: center; } dt { font-weight: bold; } .footpara { display: inline; } .footdef { margin-bottom: 1em; } .figure { padding: 1em; } .figure p { text-align: center; } .equation-container { display: table; text-align: center; width: 100%; } .equation { vertical-align: middle; } .equation-label { display: table-cell; text-align: right; vertical-align: middle; } .inlinetask { padding: 10px; border: 2px solid gray; margin: 10px; background: #ffffcc; } #org-div-home-and-up { text-align: right; font-size: 70%; white-space: nowrap; } textarea { overflow-x: auto; } .linenr { font-size: smaller } .code-highlighted { background-color: #ffff00; } .org-info-js_info-navigation { border-style: none; } #org-info-js_console-label { font-size: 10px; font-weight: bold; white-space: nowrap; } .org-info-js_search-highlight { background-color: #ffff00; color: #000000; font-weight: bold; } .org-svg { } </style> <script> window.MathJax = { tex: { ams: { multlineWidth: '85%' }, tags: 'ams', tagSide: 'right', tagIndent: '.8em' }, chtml: { scale: 1.0, displayAlign: 'center', displayIndent: '0em' }, svg: { scale: 1.0, displayAlign: 'center', displayIndent: '0em' }, output: { font: 'mathjax-modern', displayOverflow: 'overflow' } }; </script> <script id=MathJax-script  async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script> <div id=content  class=content > <h1 class=title >Julia for Data Analysis, Additional Exercises Chapter 2</h1> <p> This document was evaluated with Julia version <code>1.10.4</code>. </p> <p> Additional Packages used: BenchmarkTools </p> <div id=outline-container-orgc3d64bc  class=outline-2 > <h2 id=orgc3d64bc ><span class=section-number-2 >1.</span> Exercise 1</h2> <div class=outline-text-2  id=text-1 > <p> Consider the following code: </p> <p> <textarea cols=70  rows=4 >
+x = [1, 2]
+y = x
+y[1] = 10
+x[1]</textarea> </p> <p> What is the value of <code>x[1]</code> and why? </p> </div> <ol class=org-ol > <li><a id=org7d84d55 ></a>My Answer:<br /> <div class=outline-text-3  id=text-1-1 > <div class=org-src-container > <pre class="src src-julia">x = [1, 2]
+y = x
+y[1] = 10
+x[1]
+</pre> </div> <pre class=example >
+2-element Vector{Int64}:
+ 1
+ 2
+2-element Vector{Int64}:
+ 1
+ 2
+10
+10
+</pre> <p> The value <code>x[1] = 10</code>, and <code>x = [10,2]</code>. The reason is because in assignment, Julia does not copy to an additional memory location, it is a pointer to the same memory location. So modifying <code>y</code> also modifies <code>x</code>. </p> </div> <li><a id=org8c6c484 ></a>Kaminski&rsquo;s Answer:<br /> <div class=outline-text-3  id=text-1-2 > <p> <code>x[1]</code> will be <code>10</code> because <code>y = x</code> is not copying data but it binds the same value both to variable <code>x</code> and <code>y</code>. </p> </div> <li><a id=org9b3b3a6 ></a>Commentary:<br /> <div class=outline-text-3  id=text-1-3 > <p> The answers are the same, but Kaminski&rsquo;s is more succinct. </p> </div> </ol> </div> <div id=outline-container-org32b56a9  class=outline-2 > <h2 id=org32b56a9 ><span class=section-number-2 >2.</span> Exercise 2</h2> <div class=outline-text-2  id=text-2 > <p> How can you type <code>⚡ = 1</code>? Check if this operation succeeds and what is its result. </p> </div> <ol class=org-ol > <li><a id=org7d20714 ></a>My Answer:<br /> <div class=outline-text-3  id=text-2-1 > <p> This succeeds, but only if I type the exact sequence <code>\:zap:&lt;tab&gt;</code> </p> </div> <li><a id=org0910865 ></a>Kaminski&rsquo;s Answer:<br /> <div class=outline-text-3  id=text-2-2 > <p> In help mode (activated by <code>?</code>) copy-paste <code>⚡</code> to get: </p> <p> <textarea cols=70  rows=2 >
+help?> ⚡
+"⚡" can be typed by \:zap:<tab></textarea> </p> <p> After the <code>⚡ = 1</code> operation a new variable <code>⚡</code> is defined and it is bound to value <code>1</code>. </p> </div> </ol> </div> <div id=outline-container-orgacd3229  class=outline-2 > <h2 id=orgacd3229 ><span class=section-number-2 >3.</span> Exercise 3</h2> <div class=outline-text-2  id=text-3 > <p> What will be the value of variable <code>x</code> after running of the following code and why? </p> <p> <textarea cols=70  rows=5 >
+x = 0.0
+for i in 1:7_000_000
+    global x += 1/7
+end
+x /= 1_000_000</textarea> </p> </div> <ol class=org-ol > <li><a id=orgc29de4e ></a>My Answer:<br /> <div class=outline-text-3  id=text-3-1 > <p> I initially guess the result will be true, because of round-off/truncation error. In fact, that is the case. </p> </div> <li><a id=org4b1a6d2 ></a>Kaminski&rsquo;s Answer<br /> <div class=outline-text-3  id=text-3-2 > <p> <code>x</code> will have value <code>0.9999999999242748</code>. This value is below <code>1.0</code> because representation of <code>1/7</code> using <code>Float64</code> type is less than rational number 1/7, and the error accumulates when we do addition multiple times. </p> <p> <b>Extra</b>: You can check that indeed that <code>Float64</code> representation is a bit less than rational 1/7 by increasing the precision of computations using the <code>big</code> function: </p> <p> <textarea cols=70  rows=5 >
+julia> big(1/7) # convert Floa64 to high-precision float
+0.142857142857142849212692681248881854116916656494140625
+
+julia> 1/big(7) # construct high-precision float directly
+0.1428571428571428571428571428571428571428571428571428571428571428571428571428568</textarea> </p> <p> As you can see there is a difference at 17th place after decimal dot where we have <code>4</code> vs <code>5</code>. </p> </div> </ol> </div> <div id=outline-container-org1f54748  class=outline-2 > <h2 id=org1f54748 ><span class=section-number-2 >4.</span> Exercise 4</h2> <div class=outline-text-2  id=text-4 > <p> Express the type <code>Matrix{Bool}</code> using <code>Array</code> type. </p> </div> <ol class=org-ol > <li><a id=org78d235d ></a>My Answer:<br /> <div class=outline-text-3  id=text-4-1 > <p> <code>Matrix{Bool}</code> is an alias for <code>Array{Bool}[2,2]</code>, so not sure how to further express this matrix. </p> </div> <li><a id=orgfba7587 ></a>Kaminski&rsquo;s Answer:<br /> <div class=outline-text-3  id=text-4-2 > <p> It is <code>Array{Bool, 2}</code>. You immediately get this information in REPL: </p> <p> <textarea cols=70  rows=2 >
+julia> Matrix{Bool}
+Matrix{Bool} (alias for Array{Bool, 2})</textarea> </p> </div> </ol> </div> <div id=outline-container-orga96317d  class=outline-2 > <h2 id=orga96317d ><span class=section-number-2 >5.</span> Exercise 5</h2> <div class=outline-text-2  id=text-5 > <p> Let <code>x</code> be a vector. Write code that prints an error if <code>x</code> is empty (has zero elements). </p> </div> <ol class=org-ol > <li><a id=org3203fb0 ></a>My Answer:<br /> <div class=outline-text-3  id=text-5-1 > <div class=org-src-container > <pre class="src src-julia">x = []
+<span style="color: #531ab6;">if</span> length(x) == 0
+       throw(ArgumentError(<span style="color: #3548cf;">"x is empty vector"</span>))
+<span style="color: #531ab6;">end</span>
+</pre> </div> <pre class=example >
+Any[]
+</pre> <p> Note: The <code>throw()</code> function and <code>ArgumentError()</code> functions are introduced in Chapter 3. </p> </div> <li><a id=org3fc4f02 ></a>Kaminski&rsquo;s Answer:.<br /> <div class=outline-text-3  id=text-5-2 > <p> You can do it like this: </p> <p> <textarea cols=70  rows=1 >
+length(x) == 0 && println("x is empty")</textarea> </p> <p> <b>Extra</b>: Typically in such case one would use the <code>isempty</code> function and throw an exception instead of just printing information (here I assume that <code>x</code> was passed as an argument to the function): </p> <p textarea=t  width=70 > #+begin_example isempty(x) &amp;&amp; throw(ArgumentError(&ldquo;x is not allowed to be empty&rdquo;)) #+end_src </p> </div> <li><a id=orge7f226c ></a>Commentary<br /> <div class=outline-text-3  id=text-5-3 > <p> Note that Kaminski uses the very colloquial Julia construction of <code>&amp;&amp;</code> for the conditional. </p> </div> </ol> </div> <div id=outline-container-org253bdef  class=outline-2 > <h2 id=org253bdef ><span class=section-number-2 >6.</span> Exercise 6</h2> <div class=outline-text-2  id=text-6 > <p> Write a function called <code>exec</code> that takes two values <code>x</code> and <code>y</code> and a function accepting two arguments, call it <code>op</code> and returns <code>op(x, y)</code>. Make <code>+</code> to be the default value of <code>op</code>. </p> </div> <ol class=org-ol > <li><a id=org29aff6e ></a>My Answer:<br /> <div class=outline-text-3  id=text-6-1 > <div class=org-src-container > <pre class="src src-julia"><span style="color: #531ab6;">function</span> <span style="color: #721045;">exec</span>(x,y,op=+) <span style="color: #531ab6;">return</span> op(x,y) <span style="color: #531ab6;">end</span>
+exec(2,3)
+exec(2,3,*)
+exec(2,3,^)
+</pre> </div> <pre class=example >
+exec (generic function with 2 methods)
+5
+6
+8
+</pre> </div> <li><a id=org96ef21f ></a>Kaminski&rsquo;s Answer:<br /> <div class=outline-text-3  id=text-6-2 > <p> Here are two ways to define the <code>exec</code> function: </p> <p> <textarea cols=70  rows=2 >
+exec1(x, y, op=+) = op(x, y)
+exec2(x, y; op=+) = op(x, y)</textarea> </p> <p> The first of them uses positional arguments, and the second a keyword argument. Here is a difference in how they would be called: </p> <p> <textarea cols=70  rows=6 >
+
+julia> exec1(2, 3, *)
+6
+
+julia> exec2(2, 3; op=*)
+6</textarea> </p> </div> <li><a id=org7818851 ></a>Commentary:<br /> <div class=outline-text-3  id=text-6-3 > <p> I am using the positional notation, see below. The keyword notation would be preferable, I think. </p> </div> </ol> </div> <div id=outline-container-org018edfb  class=outline-2 > <h2 id=org018edfb ><span class=section-number-2 >7.</span> Exercise 7</h2> <div class=outline-text-2  id=text-7 > <p> Write a function that calculates a sum of absolute values of values stored in a collection passed to it. </p> </div> <ol class=org-ol > <li><a id=org867f3f9 ></a>My Answer:<br /> <div class=outline-text-3  id=text-7-1 > <div class=org-src-container > <pre class="src src-julia"><span style="color: #721045;">abssum</span>(x) = sum(abs, x)
+abssum([1,-2,3])
+m = [1 0; 0 1]
+abssum(m)
+</pre> </div> <pre class=example >
+abssum (generic function with 1 method)
+6
+2×2 Matrix{Int64}:
+ 1  0
+ 0  1
+2
+</pre> </div> <li><a id=org82f6639 ></a>Kaminski&rsquo;s Answer:<br /> <div class=outline-text-3  id=text-7-2 > <p> Such a function can be written as: </p> <p> <textarea cols=70  rows=1 >
+sumabs(x) = sum(abs, x)</textarea> </p> </div> <li><a id=org9557750 ></a>Commentary:<br /> <div class=outline-text-3  id=text-7-3 > <p> Kaminski&rsquo;s solution is identical to mine except for the name of the function. </p> </div> </ol> </div> <div id=outline-container-org0083932  class=outline-2 > <h2 id=org0083932 ><span class=section-number-2 >8.</span> Exercise 8</h2> <div class=outline-text-2  id=text-8 > <p> Write a function that swaps first and last element in an array in place. </p> </div> <ol class=org-ol > <li><a id=org845583c ></a>My Answer<br /> <div class=outline-text-3  id=text-8-1 > <div class=org-src-container > <pre class="src src-julia"><span style="color: #531ab6;">function</span> <span style="color: #721045;">swapFirstLast!</span>(x)
+   f = x[1]
+   x[1] = x[<span style="color: #531ab6;">end</span>]
+   x[<span style="color: #531ab6;">end</span>] = f
+   <span style="color: #531ab6;">return</span> x
+<span style="color: #531ab6;">end</span>
+</pre> </div> <pre class=example >
+swapFirstLast! (generic function with 1 method)
+</pre> <p> This is adapted from Kaminski&rsquo;s solution. Note the Exclamation ! to emphasize the vector is changed in place. Note also the return statement. </p> </div> <li><a id=org3515591 ></a>Kaminski&rsquo;s Solution:<br /> <div class=outline-text-3  id=text-8-2 > <p> This can be written for example as: </p> <p> <textarea cols=70  rows=6 >
+function swap!(x)
+    f = x[1]
+    x[1] = x[end]
+    x[end] = f
+    return x
+end</textarea> </p> <p> <b>Extra</b> A more advanced way to write this function would be: </p> <p> <textarea cols=70  rows=6 >
+function swap!(x)
+    if length(x) > 1
+        x[begin], x[end] = x[end], x[begin]
+    end
+    return x
+end</textarea> </p> <p> Note the differences in the code: </p> <ul class=org-ul > <li>we use <code>begin</code> instead of <code>1</code> to get the first element. This is a safer practice since some collections in Julia do not use 1-based indexing (in practice you are not likely to see them, so this comment is most relevant for package developers) <li>if there are <code>0</code> or <code>1</code> element in the collection the function does not do anything (depending on the context we might want to throw an error instead) <li>in <code>x[begin], x[end] = x[end], x[begin]</code> we perform two assignments at the same time to avoid having to use a temporary variable <code>f</code> (this operation is technically called tuple destructuring; we discuss it in later chapters of the book) </ul> </div> </ol> </div> <div id=outline-container-orgc85031a  class=outline-2 > <h2 id=orgc85031a ><span class=section-number-2 >9.</span> Exercise 9</h2> <div class=outline-text-2  id=text-9 > <p> Write a loop in global scope that calculates the sum of cubes of numbers from <code>1</code> to <code>10^6</code>. Next use the <code>sum</code> function to perform the same computation. What is the difference in timing of these operations? </p> </div> <ol class=org-ol > <li><a id=org964d372 ></a>My Answer:<br /> <div class=outline-text-3  id=text-9-1 > <div class=org-src-container > <pre class="src src-julia">  <span style="color: #531ab6;">function</span> <span style="color: #721045;">sumcubes1</span>(n)
+       s = 0
+       <span style="color: #531ab6;">for</span> i<span style="color: #531ab6;">=</span>1:n
+           s += i^3
+       <span style="color: #531ab6;">end</span>
+       <span style="color: #531ab6;">return</span> s
+  <span style="color: #531ab6;">end</span>
+
+  <span style="color: #721045;">sumcubes2</span>(n) = sum( (1:n).^3 )
+  <span style="color: #721045;">sumcubes3</span>(n) = sum(x -&gt; x^3, 1:n)
+</pre> </div> <pre class=example >
+sumcubes1 (generic function with 1 method)
+sumcubes2 (generic function with 1 method)
+sumcubes3 (generic function with 1 method)
+</pre> <p> <textarea cols=70  rows=13 >
+julia> using BenchmarkTools
+
+julia> @btime sumcubes1(10^6)
+  3.776 ns (0 allocations: 0 bytes)
+-8222430735553051648
+
+julia> @btime sumcubes2(10^6)
+  5.266 ms (2 allocations: 7.63 MiB)
+-8222430735553051648
+
+julia> @btime sumcubes3(10^6)
+  27.389 μs (0 allocations: 0 bytes)
+-8222430735553051648</textarea> </p> </div> </ol> </div> <div id=outline-container-org0e1af59  class=outline-2 > <h2 id=org0e1af59 ><span class=section-number-2 >10.</span> Exercise 10</h2> <div class=outline-text-2  id=text-10 > <p> Explain the value of the result of summation obtained in exercise 9. </p> </div> <ol class=org-ol > <li><a id=org5c1b3ec ></a>My Answer:<br /> <div class=outline-text-3  id=text-10-1 > <p> Since the result is going to be on the order of \((10^6)^4 = 10^{24} > (2^3)^{24} = 2^{72}\) it is obvious that an Int64 overflow is going to occur. </p> </div> <li><a id=org9cc8bf5 ></a>Kaminski&rsquo;s Solution:<br /> <div class=outline-text-3  id=text-10-2 > <p> If you are working with numbers larger that can be stored in <code>Int</code> type, which is: </p> <p> <textarea cols=70  rows=2 >
+julia> typemax(Int)
+9223372036854775807</textarea> </p> <p> use <code>big</code> numbers that we discussed in <b>Exercise 3</b>: </p> <p> <textarea cols=80  rows=3 >
+julia> @time sum(x -> big(x)^3, 1:10^6)
+  0.833234 seconds (11.05 M allocations: 236.113 MiB, 23.77% gc time, 2.63% compilation time)
+250000500000250000000000</textarea> </p> <p> Now we get a correct result, at the cost of slower computation. </p> </div> </ol> </div> </div> <div id=postamble  class=status > <p class=date >Date: June 2024</p> <p class=author >Author: Steve Dunbar</p> <p class=date >Created: 2024-06-26 Wed 10:08</p> <p class=validation ><a href="https://validator.w3.org/check?uri=referer">Validate</a></p> </div>
