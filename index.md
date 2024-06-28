@@ -20,3 +20,4 @@ The list of available books to give away was updated in October, 2023.
 * [Research Reports](/ResearchReports/analysis_population_deviations/)
 * [Presentations](/Presentations/presentations/)
 * [Markov Chain Book](MarkovChainBook/markovchainbook/)
+* [Julia Language Exercises](/JuliaLanguageExercises/julialangexer/)
