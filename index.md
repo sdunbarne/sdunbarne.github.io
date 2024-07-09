@@ -11,13 +11,13 @@ mathematical modeling, especially applied to "nontraditional" areas
 such as biology, finance, and political science. Most recently I am
 interested in the application of Monte Carlo Markov Chain methods to
 political redistricting. Those applications necessarily involve data
-analysis, so I use R and Julia.
+analysis, so I use Julia and R.
 
 I can be contacted at: sdunbarne -at- gmail -dot- com
 
 * [Books to Give Away](/DonatedBooks/donatedbooks/)
 The list of available books to give away was updated in October, 2023.
-* [Research Reports](/ResearchReports/analysis_population_deviations/)
+* [Research Reports](/ResearchReports/researchreports/)
 * [Presentations](/Presentations/presentations/)
 * [Markov Chain Book](MarkovChainBook/markovchainbook/)
 * [Julia Language Exercises](/JuliaLanguageExercises/julialangexer/)
