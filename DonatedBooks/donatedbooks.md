@@ -124,10 +124,6 @@ Series
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Raymond H. Chan; Yves ZY. Guo; Spike T. Lee; Xun Li&quot;}">Raymond H. Chan; Yves ZY. Guo; Spike T. Lee; Xun Li</td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Finite-dimensional vector spaces&quot;}">Finite-dimensional vector spaces</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Halmos, Paul R. (Paul Richard)&quot;}">Halmos, Paul R. (Paul Richard)</td>
-	</tr>
-	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Fixed points and topological degree in nonlinear analysis&quot;}">Fixed points and topological degree in nonlinear analysis</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Cronin, Jane&quot;}">Cronin, Jane</td>
 	</tr>
@@ -140,10 +136,6 @@ Series
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Hale, Jack K.&quot;}">Hale, Jack K.</td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;The gentle art of mathematics&quot;}">The gentle art of mathematics</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Pedoe, Daniel.&quot;}">Pedoe, Daniel.</td>
-	</tr>
-	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Green's functions and boundary value problems&quot;}">Green's functions and boundary value problems</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Stakgold, Ivar.&quot;}">Stakgold, Ivar.</td>
 	</tr>
@@ -154,10 +146,6 @@ Series
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Hyperbolic systems of conservation laws and the mathematical theory of shock waves&quot;}">Hyperbolic systems of conservation laws and the mathematical theory of shock waves</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lax, Peter D.&quot;}">Lax, Peter D.</td>
-	</tr>
-	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Introduction to modern algebraic concepts&quot;}">Introduction to modern algebraic concepts</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Larsen, Max D.&quot;}">Larsen, Max D.</td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Introduction to operations research&quot;}">Introduction to operations research</td>
@@ -190,10 +178,6 @@ Series
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lectures in differentiable dynamics&quot;}">Lectures in differentiable dynamics</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Markus, L. (Lawrence)&quot;}">Markus, L. (Lawrence)</td>
-	</tr>
-	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lectures on elementary number theory&quot;}">Lectures on elementary number theory</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Rademacher, Hans&quot;}">Rademacher, Hans</td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lectures on modern mathematics I&quot;}">Lectures on modern mathematics I</td>
