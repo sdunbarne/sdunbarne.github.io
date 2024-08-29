@@ -40,10 +40,6 @@ Series
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Ralph P. Boas Jr.&quot;}">Ralph P. Boas Jr.</td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;A second course in complex analysis&quot;}">A second course in complex analysis</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Veech, William A.&quot;}">Veech, William A.</td>
-	</tr>
-	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Advanced calculus&quot;}">Advanced calculus</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Kaplan, Wilfred&quot;}">Kaplan, Wilfred</td>
 	</tr>
@@ -60,10 +56,6 @@ Series
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Larsen, Richard J.&quot;}">Larsen, Richard J.</td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;An introduction to the mathematics of biology&quot;}">An introduction to the mathematics of biology</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Yeargers, Edward K.&quot;}">Yeargers, Edward K.</td>
-	</tr>
-	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Catastrophe Theory&quot;}">Catastrophe Theory</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;V. I. Arnold&quot;}">V. I. Arnold</td>
 	</tr>
@@ -78,10 +70,6 @@ Series
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;The development of the foundations of mathematical analysis from Euler to Riemann&quot;}">The development of the foundations of mathematical analysis from Euler to Riemann</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Grattan-Guinness, I.&quot;}">Grattan-Guinness, I.</td>
-	</tr>
-	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Differential equations&quot;}">Differential equations</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lefschetz, Solomon&quot;}">Lefschetz, Solomon</td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Differential-difference equations&quot;}">Differential-difference equations</td>
@@ -128,10 +116,6 @@ Series
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Cronin, Jane&quot;}">Cronin, Jane</td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Fourier series and boundary value problems&quot;}">Fourier series and boundary value problems</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Brown, James Ward.&quot;}">Brown, James Ward.</td>
-	</tr>
-	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Functional differential equations&quot;}">Functional differential equations</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Hale, Jack K.&quot;}">Hale, Jack K.</td>
 	</tr>
@@ -142,10 +126,6 @@ Series
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Hill's equation&quot;}">Hill's equation</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Magnus, Wilhelm; Winkler, Stanley&quot;}">Magnus, Wilhelm; Winkler, Stanley</td>
-	</tr>
-	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Hyperbolic systems of conservation laws and the mathematical theory of shock waves&quot;}">Hyperbolic systems of conservation laws and the mathematical theory of shock waves</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lax, Peter D.&quot;}">Lax, Peter D.</td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Introduction to operations research&quot;}">Introduction to operations research</td>
@@ -176,20 +156,12 @@ Series
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Conley, Charles C.&quot;}">Conley, Charles C.</td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lectures in differentiable dynamics&quot;}">Lectures in differentiable dynamics</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Markus, L. (Lawrence)&quot;}">Markus, L. (Lawrence)</td>
-	</tr>
-	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lectures on modern mathematics I&quot;}">Lectures on modern mathematics I</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Saaty, Thomas L.&quot;}">Saaty, Thomas L.</td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lectures on modern mathematics II&quot;}">Lectures on modern mathematics II</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Saaty, Thomas L.&quot;}">Saaty, Thomas L.</td>
-	</tr>
-	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lectures on Ordinary Differential Equations&quot;}">Lectures on Ordinary Differential Equations</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Hurewicz, Witold&quot;}">Hurewicz, Witold</td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lectures on ordinary differential equations&quot;}">Lectures on ordinary differential equations</td>
