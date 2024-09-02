@@ -68,10 +68,6 @@ Series
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Thompson, William J. (William Jackson)&quot;}">Thompson, William J. (William Jackson)</td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;The development of the foundations of mathematical analysis from Euler to Riemann&quot;}">The development of the foundations of mathematical analysis from Euler to Riemann</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Grattan-Guinness, I.&quot;}">Grattan-Guinness, I.</td>
-	</tr>
-	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Differential-difference equations&quot;}">Differential-difference equations</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Bellman, Richard; Cooke, Kenneth L.&quot;}">Bellman, Richard; Cooke, Kenneth L.</td>
 	</tr>
@@ -134,10 +130,6 @@ Series
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Introduction to scientific programming&quot;}">Introduction to scientific programming</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Zachary, Joseph L.&quot;}">Zachary, Joseph L.</td>
-	</tr>
-	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Introduction to symbolic logic&quot;}">Introduction to symbolic logic</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Pollock, John L.&quot;}">Pollock, John L.</td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Introduction to the constructive theory of functions&quot;}">Introduction to the constructive theory of functions</td>
