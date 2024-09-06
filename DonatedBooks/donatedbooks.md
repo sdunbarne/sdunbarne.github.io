@@ -148,14 +148,6 @@ Series
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Conley, Charles C.&quot;}">Conley, Charles C.</td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lectures on modern mathematics I&quot;}">Lectures on modern mathematics I</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Saaty, Thomas L.&quot;}">Saaty, Thomas L.</td>
-	</tr>
-	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lectures on modern mathematics II&quot;}">Lectures on modern mathematics II</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Saaty, Thomas L.&quot;}">Saaty, Thomas L.</td>
-	</tr>
-	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Lectures on ordinary differential equations&quot;}">Lectures on ordinary differential equations</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Hille, Einar&quot;}">Hille, Einar</td>
 	</tr>
@@ -270,10 +262,6 @@ Series
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Schaum's Outline Series Real Variables&quot;}">Schaum's Outline Series Real Variables</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Murray R. Spiegel&quot;}">Murray R. Spiegel</td>
-	</tr>
-	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;The search for E.T. Bell&quot;}">The search for E.T. Bell</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Reid, Constance.&quot;}">Reid, Constance.</td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Selected papers on mathematical trends in control theory&quot;}">Selected papers on mathematical trends in control theory</td>
