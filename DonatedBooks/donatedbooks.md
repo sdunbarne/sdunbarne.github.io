@@ -40,10 +40,6 @@ Series
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Ralph P. Boas Jr.&quot;}">Ralph P. Boas Jr.</td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Advanced calculus&quot;}">Advanced calculus</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Kaplan, Wilfred&quot;}">Kaplan, Wilfred</td>
-	</tr>
-	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Almost Periodic Functions&quot;}">Almost Periodic Functions</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;C. Corduneanu&quot;}">C. Corduneanu</td>
 	</tr>
@@ -84,10 +80,6 @@ Series
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Richard T. Weidner; Robert L. Sells&quot;}">Richard T. Weidner; Robert L. Sells</td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Elementary numerical analysis&quot;}">Elementary numerical analysis</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Atkinson, Kendall E.&quot;}">Atkinson, Kendall E.</td>
-	</tr>
-	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;The enjoyment of mathematics&quot;}">The enjoyment of mathematics</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Rademacher, Hans&quot;}">Rademacher, Hans</td>
 	</tr>
@@ -98,10 +90,6 @@ Series
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Faster Isn't Smarter&quot;}">Faster Isn't Smarter</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Cathy L. Seeley&quot;}">Cathy L. Seeley</td>
-	</tr>
-	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Financial derivatives&quot;}">Financial derivatives</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Kolb, Robert W.&quot;}">Kolb, Robert W.</td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Financial Mathematics, Derivatives and Structured Products&quot;}">Financial Mathematics, Derivatives and Structured Products</td>
@@ -138,10 +126,6 @@ Series
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Introduction to the mathematical theory of control processes&quot;}">Introduction to the mathematical theory of control processes</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Bellman, Richard&quot;}">Bellman, Richard</td>
-	</tr>
-	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Introductory Complex Analysis &amp; Applications&quot;}">Introductory Complex Analysis &amp; Applications</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;William R. Derrick&quot;}">William R. Derrick</td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Isolated invariantsets and the morse index&quot;}">Isolated invariantsets and the morse index</td>
@@ -212,10 +196,6 @@ Series
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Bailey, Paul B.; Shampine, L. F.; Waltman, P. E.&quot;}">Bailey, Paul B.; Shampine, L. F.; Waltman, P. E.</td>
 	</tr>
 	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Numerical analysis of spectral methods&quot;}">Numerical analysis of spectral methods</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Gottlieb, David; Orszag, Steven&quot;}">Gottlieb, David; Orszag, Steven</td>
-	</tr>
-	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Numerical methods, software, and analysis&quot;}">Numerical methods, software, and analysis</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Rice, John Rischard.&quot;}">Rice, John Rischard.</td>
 	</tr>
@@ -234,14 +214,6 @@ Series
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Partial differential equations&quot;}">Partial differential equations</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Friedman, Avner.&quot;}">Friedman, Avner.</td>
-	</tr>
-	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Partial differential equations in engineering problems&quot;}">Partial differential equations in engineering problems</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Miller, Kenneth S.&quot;}">Miller, Kenneth S.</td>
-	</tr>
-	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Partial differential equations of applied mathematics&quot;}">Partial differential equations of applied mathematics</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Zauderer, Erich.&quot;}">Zauderer, Erich.</td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Physics&quot;}">Physics</td>
@@ -290,10 +262,6 @@ Series
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Stochastic modelling for systems biology&quot;}">Stochastic modelling for systems biology</td>
 		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Wilkinson, Darren James.&quot;}">Wilkinson, Darren James.</td>
-	</tr>
-	<tr>
-		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Studies in modern analysis&quot;}">Studies in modern analysis</td>
-		<td align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Buck, R. Creighton (Robert Creighton)&quot;}">Buck, R. Creighton (Robert Creighton)</td>
 	</tr>
 	<tr>
 		<td height="17" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Studies in ordinary differential equations&quot;}">Studies in ordinary differential equations</td>
