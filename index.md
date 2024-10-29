@@ -15,8 +15,6 @@ analysis, so I use Julia and R.
 
 I can be contacted at: sdunbarne -at- gmail -dot- com
 
-* [Books to Give Away](/DonatedBooks/donatedbooks/)
-The list of available books to give away was updated September 11, 2024.
 * [Research Reports](/ResearchReports/researchreports/)
 * [Presentations](/Presentations/presentations/)
 * [Markov Chain Book](MarkovChainBook/markovchainbook/)

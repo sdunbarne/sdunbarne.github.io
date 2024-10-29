@@ -7,6 +7,20 @@ Presentations and Talks Given
 
 # Presentations
 
+## Nebraska's Congressional Districts and Electoral Votes
+
+A talk given in the "Make Your Vote Count" lectures series at St. Paul
+United Methodist Church, Lincoln, NE on October 22, 2024 with some additions on
+October 29, 2024.  The talk addresses the question: "Are substantial
+effects in Nebraska politics possible from recent population changes?"
+The document is a 27 slide presentation in PDF format.
+
+~~~
+<a
+href="../elections_talk.pdf"
+download>Gerrymandering </a> 
+~~~
+
 ## Gerrymandering
 
 A talk given to Leadership Lincoln on July 21, 2021 about
