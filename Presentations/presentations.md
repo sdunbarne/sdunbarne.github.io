@@ -18,7 +18,7 @@ The document is a 27 slide presentation in PDF format.
 ~~~
 <a
 href="../elections_talk.pdf"
-download>Gerrymandering </a> 
+download> Nebraska's Congressional Districts and Electoral Votes </a> 
 ~~~
 
 ## Gerrymandering
