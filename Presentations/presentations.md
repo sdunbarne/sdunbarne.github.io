@@ -7,6 +7,22 @@ Presentations and Talks Given
 
 # Presentations
 
+## Solving and Simulating Stochastic Differential Equations
+
+A talk given in the UNL Probability Seminar on November 12, 2024.
+This talk presents graphical and numerical interpretations of Brownian
+motion and Stochastic Differential Equations, along with algorithms
+for solving SDEs with error estimates.  It conclude with numerical
+examples of simulating the SDEs presented by Prof. Yamazaki previously
+in the seminar. Several of the slides refer to the Lecture Notes by
+item number.
+
+~~~
+<a
+href="../stochasticdesjulia.pdf"
+download> Solving and Simulating Stochastic Differential Equations </a> 
+~~~
+
 ## Nebraska's Congressional Districts and Electoral Votes
 
 A talk given in the "Make Your Vote Count" lectures series at St. Paul
