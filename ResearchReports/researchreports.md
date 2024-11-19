@@ -7,8 +7,23 @@ Research Reports
 
 # Reports
 
+
 Reports about population analysis and population deviations from
 ideal in Nebraska Legislative Districts.
+
+## What If Nebraska Had Two Congressional Districts?
+
+I was asked what would
+happen if Nebraska was reduced to two Congressional Districts in the
+next census and redistricting cycle in 2030.  That was a great
+question, and I decided to investigate.  This is a short report on
+some quick experiments in response to that question.
+
+~~~
+<a
+href="../twocongressionaldistricts.pdf"
+download>What If Nebraska Had Two Congressional Districts </a> 
+~~~
 
 ## Population Deviation in the 2021 Nebraska Legislative Redistricting
 
