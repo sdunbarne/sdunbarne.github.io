@@ -17,5 +17,8 @@ I can be contacted at: sdunbarne -at- gmail -dot- com
 
 * [Research Reports](/ResearchReports/researchreports/)
 * [Presentations](/Presentations/presentations/)
-* [Markov Chain Book](MarkovChainBook/markovchainbook/)
+* [Markov Chain Book](/MarkovChainBook/markovchainbook/)
+* [Notes on Brownian Motion](/BrownianMotion/brownianmotion/)
 * [Julia Language Exercises](/JuliaLanguageExercises/julialangexer/)
+
+

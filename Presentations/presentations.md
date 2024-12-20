@@ -7,6 +7,23 @@ Presentations and Talks Given
 
 # Presentations
 
+## Differential Equations with Julia/SciML
+
+A talk given in the UNL Partial Differential Equations Seminar on
+December 9, 2024.  An overview of Julia and the associated SciML
+packages for numerical solutions of all kinds of differential
+equations, including partial differential equations of course. Julia
+and SciML together are a comprehensive platform for scientific
+modeling and mathematical analysis. This talk will be introductory and
+non-technical, introducing Julia and showcasing some of the features
+of SciML.
+
+~~~
+<a
+href="../desjulia.pdf"
+download> Differential Equations with Julia/SciML </a> 
+~~~
+
 ## Solving and Simulating Stochastic Differential Equations
 
 A talk given in the UNL Probability Seminar on November 12, 2024.
