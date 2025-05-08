@@ -5,13 +5,15 @@ Markov Chains: Examples with Theory
 
 `sdunbarne@gmail.com`
 
-A book in progress currently presented in PDF format from the LaTeX
-source compiled with `amsbook.sty`.  This is a evolving work, and is
-subject to frequent change and additions.  Chapters 1-8 and 12 have been
-edited and revised as of this version.  If you have comments or
-questions about this book, or if you find errors, please email me.
+This book *Markov Chains: Examples with Theory*, is in progress.  It
+is currently presented in PDF format from the LaTeX source compiled
+with `amsbook.sty`.  This is an evolving work, subject to frequent
+change and additions.  The first part of the book, *Basic Examples and
+Theory* in Chapters 1-12, has been edited and revised as of this
+version.  If you have comments or questions about this book, or if you
+find errors, please email me.
 
-Chapters 1-23, as of April 17, 2025.
+Chapters 1-23, as of May 8, 2025.
 
 ~~~
 <a
